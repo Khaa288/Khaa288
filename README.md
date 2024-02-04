@@ -14,7 +14,7 @@
 
 - 🌟 Willing to learn more about **System Design**
 
-- 💬 Reach me via khanghuynhwork28@gmail.com or khaa2882002@gmail.com
+- 💬 Reach me via **khanghuynhwork28@gmail.com** or **khaa2882002@gmail.com**
 
 <br/>
 

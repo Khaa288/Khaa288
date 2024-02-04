@@ -21,13 +21,13 @@
 ---
 
 <div align="center" style="padding: 10px">
-<h3 style="margin: 10px;">Github stats and Programming Languages</h3> 
+  <h3 style="margin: 10px;">Github stats and Programming Languages</h3> 
 <br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khaa288&show_icons=true&theme=highcontrast&rank_icon=github" height="165" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaa288&layout=compact&theme=highcontrast&langs_count=6" height="165" width="400">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaa288&show_icons=true&theme=highcontrast&rank_icon=github" height="165" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaa288&layout=compact&theme=highcontrast&langs_count=6" height="165" width="400">
+</div>
 
 
 </div>

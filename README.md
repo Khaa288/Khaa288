@@ -4,17 +4,17 @@
 
 <img align="right" style="width:13rem; height:auto; border-radius: 20%" src="https://github.com/Khaa288/Khaa288/assets/89777765/f4bbbf02-d8ac-401c-ba5a-ed5f2c9c93ec"/>
 
-- 🏢 Senior at **UNIVERSITY OF SCIENCE - VNUHCM**
+- Senior at **UNIVERSITY OF SCIENCE - VNUHCM**
 
-- 🌱 Attempting to be **Extroverted**
+- Attempting to be **Extroverted**
 
-- 🚀 Enthusiastic about **design, decorating and technology**
+- Enthusiastic about **design, decorating and technology**
 
-- ⚡ Proficient in **Net Core, ReactJS** or related concepts
+- Proficient in **Net Core, ReactJS** or related concepts
 
-- 🌟 Willing to learn more about **System Design**
+- Willing to learn more about **System Design**
 
-- 💬 Reach me via **khanghuynhwork28@gmail.com** or **khaa2882002@gmail.com**
+- Reach me via **khanghuynhwork28@gmail.com** or **khaa2882002@gmail.com**
 
 <br/>
 

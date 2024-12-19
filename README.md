@@ -36,10 +36,10 @@
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://www.linkedin.com/in/hu%E1%BB%B3nh-khang-64b2b72a3/" target="_blank">
+    <a  href="https://www.linkedin.com/in/khaa288/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.facebook.com/HcmusVKhaa" target="_blank">
+    <a href="https://www.facebook.com/HVKhaa/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
     </a>
     <a href="https://youtube.com/example" target="_blank">

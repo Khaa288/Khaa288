@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Khaa <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center" style="padding-bottom: 5px">A passionate software engineer and a student</h3>
-
+<br>
 
 <img align="right" style="width:13rem; height:auto; border-radius: 20%" src="https://github.com/Khaa288/Khaa288/assets/89777765/f4bbbf02-d8ac-401c-ba5a-ed5f2c9c93ec"/>
 
